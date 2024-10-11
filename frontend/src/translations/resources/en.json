@@ -1,0 +1,9 @@
+{
+    "test": "This is a test",
+    "signUpScreen": {
+        "screenTitle": "Sign Up"
+    },
+    "signInScreen": {
+        "screenTitle": "Sign In"
+    }
+}
